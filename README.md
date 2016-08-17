@@ -24,5 +24,3 @@ livejson (Used for storage of locational information)
 1 x Laptop (In my case a dell N15500 Inspiron )
 
 1 x 8 GB USB for the collected data (Recomended but not required)
-
-This also requires and internet connection for colelction of the location data. (Unless tyou manually enter in the data)

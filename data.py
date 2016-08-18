@@ -8,3 +8,4 @@ def openData(file):
 
 def writeSignalData(location,powerLevel,freq):
     data.append([freq,powerLevel,location])
+

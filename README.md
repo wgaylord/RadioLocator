@@ -9,10 +9,6 @@ I will be using the one from Adfruit becasue it is smaller and also has better f
 ##Requirments
 A modified version of https://github.com/roger-/pyrtlsdr which will be on my github.
 
-Numpy (Used for converting I/Q data into data that can be used)
-
-googlemaps (Used for positional data)
-
 livejson (Used for storage of locational information)
 
 ##Equipment
